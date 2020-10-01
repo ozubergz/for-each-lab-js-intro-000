@@ -1,3 +1,3 @@
-function iterate() {
-  
+function iterate(callback) {
+
 }
