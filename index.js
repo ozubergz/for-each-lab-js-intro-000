@@ -7,3 +7,7 @@ function iterate(callback) {
   a.forEach(callback)
   return a
 }
+
+function doToArray(a, callback) {
+  
+}
