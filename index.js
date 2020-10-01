@@ -1,4 +1,4 @@
-function iterativeLog() {
+function iterativeLog(a) {
   
 }
 
