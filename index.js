@@ -9,5 +9,5 @@ function iterate(callback) {
 }
 
 function doToArray(a, callback) {
-  
+  a.forEach(callback)
 }
