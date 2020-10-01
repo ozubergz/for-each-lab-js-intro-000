@@ -1,5 +1,5 @@
 function iterativeLog(a) {
-  
+  a.forEach((e, i) => console.log())
 }
 
 function iterate(callback) {
